@@ -1,5 +1,4 @@
-<H1 ALIGN=CENTER> Implementation of Bayesian Networks</H1>
-<H3> Experiment 1</H3>
+<H1 ALIGN=CENTER>Experiment 1 : Implementation of Bayesian Networks</H1>
 <H3> Name : Vikamuhan reddy N </H3>
 <H3>Register No. 212223240181</H3>
 <H3>DATE: 11/04/25</H3>
