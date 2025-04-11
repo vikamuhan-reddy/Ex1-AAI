@@ -4,7 +4,7 @@
 <H3>DATE: 11/04/25</H3>
 
 ## Aim :
-    To create a bayesian Network for the given dataset in Python
+To create a bayesian Network for the given dataset in Python
 ## Algorithm:
 Step 1:Import necessary libraries: pandas, networkx, matplotlib.pyplot, Bbn, Edge, EdgeType, BbnNode, Variable, EvidenceBuilder, InferenceController<br/>
 Step 2:Set pandas options to display more columns<br/>
