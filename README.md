@@ -22,7 +22,7 @@ Step 13:Generate the graph using networkx<br/>
 Step 14:Update margins and display the graph using matplotlib.pyplot<br/>
 
 ## Program:
-'''py
+```py
 
 !pip install pybbn
 
@@ -118,7 +118,7 @@ print(probs(df, child='Humidity9amCat'))
 print(probs(df, child='Humidity3pmCat', parent1='Humidity9amCat'))
 print(probs(df, child='WindGustSpeedCat'))
 print(probs(df, child='RainTomorrow', parent1='Humidity3pmCat', parent2='WindGustSpeedCat'))
-'''
+```
 
 ## Output:
 ![WhatsApp Image 2025-04-11 at 12 30 09_dfa1873d](https://github.com/user-attachments/assets/9be0cbe0-1dbe-4821-b4f7-d0b2b57cfde6)
